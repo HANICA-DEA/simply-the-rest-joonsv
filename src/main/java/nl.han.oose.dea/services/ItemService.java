@@ -1,8 +1,8 @@
-package nl.han.oose.dea.rest.services;
+package nl.han.oose.dea.services;
 
-import nl.han.oose.dea.rest.services.dto.ItemDTO;
-import nl.han.oose.dea.rest.services.exceptions.IdAlreadyInUseException;
-import nl.han.oose.dea.rest.services.exceptions.ItemNotAvailableException;
+import nl.han.oose.dea.services.dto.ItemDTO;
+import nl.han.oose.dea.services.exceptions.IdAlreadyInUseException;
+import nl.han.oose.dea.services.exceptions.ItemNotAvailableException;
 
 import java.util.ArrayList;
 import java.util.List;
